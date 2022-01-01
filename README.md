@@ -1,4 +1,4 @@
-# Data Glacier Virtual Intership
+# Data Glacier Virtual Internship
 ![alt text](https://static.wixstatic.com/media/0210e0_76e504b5a41d470d87cbf1aa69111d59~mv2.png/v1/crop/x_0,y_168,w_480,h_145/fill/w_399,h_120,al_c,q_85,usm_0.66_1.00_0.01/Email%20Signature%20Logo.webp)
 
 Virtual Internship Details 
